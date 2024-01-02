@@ -19,7 +19,7 @@ _Useful tips when navigating through your repository._
   Define terms and link to docs.github.com.
 -->
 
-## Step 2: Find a commit in history
+## Step 2: Find a commit in history in github
 
 _Thanks for the duplicate note :wave:_
 
